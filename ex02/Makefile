@@ -6,7 +6,7 @@ SRCS			=	main.cpp
 
 OBJS			=	$(SRCS:.cpp=.o)
 
-NAME			=	ex00
+NAME			=	ex02
 
 all:				$(NAME)
 
